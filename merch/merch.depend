@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1358539589 source:d:\study\2 kurs\c\merch\main.cpp
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<conio.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1358366113 source:d:\study\2 kurs\c\vetvi\main.c
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+

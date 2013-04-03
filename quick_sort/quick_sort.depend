@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1356705867 source:d:\study\2 kurs\c\quick_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
